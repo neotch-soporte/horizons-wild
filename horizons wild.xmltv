@@ -2,7 +2,7 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="Neotech Playout Engine">
 	<channel id="default">
-		<display-name>Playlist Pro TV</display-name>
+		<display-name>Horizons wild</display-name>
 	</channel>
 	<programme start="20260527000000 +0000" stop="20260527002339 +0000" channel="default">
 		<title lang="es">Supervivencia ANIMAL </title>
